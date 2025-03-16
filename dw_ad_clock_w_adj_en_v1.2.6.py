@@ -1,7 +1,8 @@
 # Pimoroni Explorer Demo
+# From: https://forums.pimoroni.com/t/pimoroni-explorer-kit-tutorial/26501/6
 # Analog/ Digital clock - Tony Goodhew, Leicester UK - 6 Nov 2024
 # Time Adjust - Tony Goodhew, Leicester UK - 23 Dec 2024
-# Modified - David Warner, Detroit MI, US - 09 Mar 2025
+# Modified - David Warner, Detroit MI, US - 17 Mar 2025
 # Uses the Multi-Sensor Stick (BME280 + LTR559 + LSM6DS3)
 
 from explorer import display, i2c, button_a, button_b, button_c, button_z, button_x, button_y, YELLOW
